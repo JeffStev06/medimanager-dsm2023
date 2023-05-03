@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Medi Manager</string>
+    <string name="edtHintMedicineName">Ingrese el nombre del medicamento</string>
+    <string name="edtHintDose">Descripción de dosis (opcional)</string>
+    <string name="edtHintDoctor">Médico que le recetó</string>
+    <string name="edtHintInterval">Cantidad según intérvalo seleccionado</string>
+    <string name="edtHintTime">Hora de primera toma</string>
+    <string name="edtHintIntervalSpinner">Intérvalo</string>
+</resources>
